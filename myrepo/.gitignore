@@ -3,4 +3,7 @@ datafile.dat
 #ignore configuration text file
 binaryfile.txt
 
+#ignore all object files
+diector/
+
 
